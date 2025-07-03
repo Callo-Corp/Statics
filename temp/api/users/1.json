@@ -1,0 +1,85 @@
+{
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "password": "123",
+  "role": "user",
+  "ratings": 4.5,
+  "years": 1,
+  "cpf": "123.456.789-00",
+  "phone": "+1234567890",
+  "profile_picture": "https://callo-corp.github.io/Statics/assets/images/temp/fotoPerfil.png",
+  "address": {
+    "street": "123 Main St",
+    "city": "Anytown",
+    "state": "Anystate",
+    "neighborhood": "Downtown",
+    "country": "Countryland",
+    "complement": "Apt 4B",
+    "number": "456",
+    "address_name": "Main Office",
+    "zip": "12345"
+  },
+  "active_devices": [
+    {
+      "id": 1,
+      "name": "iPhone 12",
+      "type": "mobile",
+      "os": "iOS",
+      "lastUsed": "2023-01-01T00:00:00Z",
+      "location": "New York, USA"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "cardNumber": "1234-5678-9012-3456",
+      "cardHolderName": "John Doe",
+      "expiryDate": "12/25",
+      "cvv": "123"
+    }
+  ],
+  "transactions_history": [
+    {
+      "id": 1,
+      "type": "credit",
+      "amount": 100,
+      "date": "2023-01-01T00:00:00Z",
+      "description": "Payment for services",
+      "card_flag": "Visa",
+      "status": "completed",
+      "order_id": "ORD123456",
+      "service_name": "Web Development",
+      "rating": 5,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/maleta.png"
+    },
+    {
+      "id": 2,
+      "type": "debit",
+      "amount": 50,
+      "date": "2023-01-02T00:00:00Z",
+      "description": "Refund for service",
+      "card_flag": "MasterCard",
+      "status": "completed",
+      "order_id": "ORD123457",
+      "service_name": "Graphic Design",
+      "rating": 4.5,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "name": "Favorite Service",
+      "description": "This is a favorite service.",
+      "category": "Web Development",
+      "price": 200,
+      "rating": 4.8,
+      "createdAt": "2023-01-01T00:00:00Z",
+      "updatedAt": "2023-01-01T00:00:00Z",
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png"
+    }
+  ],
+  "createdAt": "2023-01-01T00:00:00Z",
+  "updatedAt": "2023-01-01T00:00:00Z"
+}

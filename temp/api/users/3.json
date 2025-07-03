@@ -1,0 +1,72 @@
+{
+  "id": 3,
+  "name": "Carlos Mendes",
+  "email": "carlos.mendes@example.com",
+  "password": "123",
+  "role": "user",
+  "ratings": 4.2,
+  "years": 2,
+  "cpf": "321.654.987-00",
+  "phone": "+5521988888888",
+  "profile_picture": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg",
+  "address": {
+    "street": "Av. Brasil",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "neighborhood": "Centro",
+    "country": "Brasil",
+    "complement": "Sala 301",
+    "number": "789",
+    "address_name": "Escritório",
+    "zip": "20040-002"
+  },
+  "active_devices": [
+    {
+      "id": 3,
+      "name": "MacBook Pro",
+      "type": "laptop",
+      "os": "macOS",
+      "lastUsed": "2023-04-05T08:15:00Z",
+      "location": "Rio de Janeiro, Brasil"
+    }
+  ],
+  "cards": [
+    {
+      "id": 3,
+      "cardNumber": "1111-2222-3333-4444",
+      "cardHolderName": "Carlos Mendes",
+      "expiryDate": "08/24",
+      "cvv": "789"
+    }
+  ],
+  "transactions_history": [
+    {
+      "id": 4,
+      "type": "debit",
+      "amount": 150,
+      "date": "2023-04-10T12:00:00Z",
+      "description": "Conserto automotivo",
+      "card_flag": "Visa",
+      "status": "completed",
+      "order_id": "ORD123459",
+      "service_name": "Mecânica rápida",
+      "rating": 4.2,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 3,
+      "name": "Troca de óleo",
+      "description": "Serviço rápido e eficiente.",
+      "category": "Mecânica",
+      "price": 90,
+      "rating": 4.3,
+      "createdAt": "2023-03-20T00:00:00Z",
+      "updatedAt": "2023-04-01T00:00:00Z",
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/tacandofogo.png"
+    }
+  ],
+  "createdAt": "2023-03-01T00:00:00Z",
+  "updatedAt": "2023-06-10T00:00:00Z"
+}

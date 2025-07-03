@@ -1,0 +1,303 @@
+[
+	{
+		"id": 1,
+		"name": "John Doe",
+		"email": "john.doe@example.com",
+		"password": "123",
+		"role": "user",
+		"ratings": 4.5,
+		"years": 1,
+		"cpf": "123.456.789-00",
+		"phone": "+1234567890",
+		"profile_picture": "https://callo-corp.github.io/Statics/assets/images/temp/fotoPerfil.png",
+		"address": {
+			"street": "123 Main St",
+			"city": "Anytown",
+			"state": "Anystate",
+			"neighborhood": "Downtown",
+			"country": "Countryland",
+			"complement": "Apt 4B",
+			"number": "456",
+			"address_name": "Main Office",
+			"zip": "12345"
+		},
+		"active_devices": [
+			{
+				"id": 1,
+				"name": "iPhone 12",
+				"type": "mobile",
+				"os": "iOS",
+				"lastUsed": "2023-01-01T00:00:00Z",
+				"location": "New York, USA"
+			}
+		],
+		"cards": [
+			{
+				"id": 1,
+				"cardNumber": "1234-5678-9012-3456",
+				"cardHolderName": "John Doe",
+				"expiryDate": "12/25",
+				"cvv": "123"
+			}
+		],
+		"transactions_history": [
+			{
+				"id": 1,
+				"type": "credit",
+				"amount": 100.00,
+				"date": "2023-01-01T00:00:00Z",
+				"description": "Payment for services",
+				"card_flag": "Visa",
+				"status": "completed",
+				"order_id": "ORD123456",
+				"service_name": "Web Development",
+				"rating": 5,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/maleta.png"
+			},
+			{
+				"id": 2,
+				"type": "debit",
+				"amount": 50.00,
+				"date": "2023-01-02T00:00:00Z",
+				"description": "Refund for service",
+				"card_flag": "MasterCard",
+				"status": "completed",
+				"order_id": "ORD123457",
+				"service_name": "Graphic Design",
+				"rating": 4.5,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
+			}
+		],
+		"favorites": [
+			{
+				"id": 1,
+				"name": "Favorite Service",
+				"description": "This is a favorite service.",
+				"category": "Web Development",
+				"price": 200.00,
+				"rating": 4.8,
+				"createdAt": "2023-01-01T00:00:00Z",
+				"updatedAt": "2023-01-01T00:00:00Z",
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png"
+			}
+		],
+		"createdAt": "2023-01-01T00:00:00Z",
+		"updatedAt": "2023-01-01T00:00:00Z"
+	},
+	{
+		"id": 2,
+		"name": "Maria Silva",
+		"email": "maria.silva@example.com",
+		"password": "123",
+		"role": "user",
+		"ratings": 4.7,
+		"years": 3,
+		"cpf": "987.654.321-00",
+		"phone": "+5511999999999",
+		"profile_picture": "https://callo-corp.github.io/Statics/assets/images/temp/perfillindinha.jpg",
+		"address": {
+			"street": "Rua das Flores",
+			"city": "São Paulo",
+			"state": "SP",
+			"neighborhood": "Jardins",
+			"country": "Brasil",
+			"complement": "Casa",
+			"number": "123",
+			"address_name": "Residência",
+			"zip": "01414-001"
+		},
+		"active_devices": [
+			{
+				"id": 2,
+				"name": "Samsung Galaxy S21",
+				"type": "mobile",
+				"os": "Android",
+				"lastUsed": "2023-02-01T10:30:00Z",
+				"location": "São Paulo, Brasil"
+			}
+		],
+		"cards": [
+			{
+				"id": 2,
+				"cardNumber": "4321-8765-2109-6543",
+				"cardHolderName": "Maria Silva",
+				"expiryDate": "11/26",
+				"cvv": "456"
+			}
+		],
+		"transactions_history": [
+			{
+				"id": 3,
+				"type": "credit",
+				"amount": 250.00,
+				"date": "2023-03-15T14:00:00Z",
+				"description": "Serviço de costura",
+				"card_flag": "Elo",
+				"status": "completed",
+				"order_id": "ORD123458",
+				"service_name": "Costura sob medida",
+				"rating": 5,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg"
+			}
+		],
+		"favorites": [
+			{
+				"id": 2,
+				"name": "Design de Moda",
+				"description": "Consultoria e criação de peças.",
+				"category": "Moda",
+				"price": 300.00,
+				"rating": 4.9,
+				"createdAt": "2023-03-01T00:00:00Z",
+				"updatedAt": "2023-03-01T00:00:00Z",
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/borrifando.jpg"
+			}
+		],
+		"createdAt": "2023-02-01T00:00:00Z",
+		"updatedAt": "2023-06-01T00:00:00Z"
+	},
+	{
+		"id": 3,
+		"name": "Carlos Mendes",
+		"email": "carlos.mendes@example.com",
+		"password": "123",
+		"role": "user",
+		"ratings": 4.2,
+		"years": 2,
+		"cpf": "321.654.987-00",
+		"phone": "+5521988888888",
+		"profile_picture": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg",
+		"address": {
+			"street": "Av. Brasil",
+			"city": "Rio de Janeiro",
+			"state": "RJ",
+			"neighborhood": "Centro",
+			"country": "Brasil",
+			"complement": "Sala 301",
+			"number": "789",
+			"address_name": "Escritório",
+			"zip": "20040-002"
+		},
+		"active_devices": [
+			{
+				"id": 3,
+				"name": "MacBook Pro",
+				"type": "laptop",
+				"os": "macOS",
+				"lastUsed": "2023-04-05T08:15:00Z",
+				"location": "Rio de Janeiro, Brasil"
+			}
+		],
+		"cards": [
+			{
+				"id": 3,
+				"cardNumber": "1111-2222-3333-4444",
+				"cardHolderName": "Carlos Mendes",
+				"expiryDate": "08/24",
+				"cvv": "789"
+			}
+		],
+		"transactions_history": [
+			{
+				"id": 4,
+				"type": "debit",
+				"amount": 150.00,
+				"date": "2023-04-10T12:00:00Z",
+				"description": "Conserto automotivo",
+				"card_flag": "Visa",
+				"status": "completed",
+				"order_id": "ORD123459",
+				"service_name": "Mecânica rápida",
+				"rating": 4.2,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg"
+			}
+		],
+		"favorites": [
+			{
+				"id": 3,
+				"name": "Troca de óleo",
+				"description": "Serviço rápido e eficiente.",
+				"category": "Mecânica",
+				"price": 90.00,
+				"rating": 4.3,
+				"createdAt": "2023-03-20T00:00:00Z",
+				"updatedAt": "2023-04-01T00:00:00Z",
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/tacandofogo.png"
+			}
+		],
+		"createdAt": "2023-03-01T00:00:00Z",
+		"updatedAt": "2023-06-10T00:00:00Z"
+	},
+	{
+		"id": 4,
+		"name": "Dr. Fernanda Rocha",
+		"email": "fernanda.rocha@example.com",
+		"password": "123",
+		"role": "user",
+		"ratings": 4.9,
+		"years": 7,
+		"cpf": "456.789.123-00",
+		"phone": "+5531987654321",
+		"profile_picture": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg",
+		"address": {
+			"street": "Rua da Saúde",
+			"city": "Belo Horizonte",
+			"state": "MG",
+			"neighborhood": "Savassi",
+			"country": "Brasil",
+			"complement": "Consultório 5",
+			"number": "55",
+			"address_name": "Clínica",
+			"zip": "30140-130"
+		},
+		"active_devices": [
+			{
+				"id": 4,
+				"name": "iPad Pro",
+				"type": "tablet",
+				"os": "iPadOS",
+				"lastUsed": "2023-05-01T09:45:00Z",
+				"location": "Belo Horizonte, Brasil"
+			}
+		],
+		"cards": [
+			{
+				"id": 4,
+				"cardNumber": "5555-6666-7777-8888",
+				"cardHolderName": "Fernanda Rocha",
+				"expiryDate": "07/27",
+				"cvv": "321"
+			}
+		],
+		"transactions_history": [
+			{
+				"id": 5,
+				"type": "credit",
+				"amount": 500.00,
+				"date": "2023-05-10T10:00:00Z",
+				"description": "Consulta médica",
+				"card_flag": "MasterCard",
+				"status": "completed",
+				"order_id": "ORD123460",
+				"service_name": "Atendimento clínico",
+				"rating": 5,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp"
+			}
+		],
+		"favorites": [
+			{
+				"id": 4,
+				"name": "Acompanhamento mensal",
+				"description": "Pacote de consultas com desconto.",
+				"category": "Saúde",
+				"price": 1200.00,
+				"rating": 4.9,
+				"createdAt": "2023-04-01T00:00:00Z",
+				"updatedAt": "2023-05-01T00:00:00Z",
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/cadeira.webp"
+			}
+		],
+		"createdAt": "2023-04-01T00:00:00Z",
+		"updatedAt": "2023-06-20T00:00:00Z"
+	}
+]

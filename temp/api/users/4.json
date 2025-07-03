@@ -1,0 +1,72 @@
+{
+  "id": 4,
+  "name": "Dr. Fernanda Rocha",
+  "email": "fernanda.rocha@example.com",
+  "password": "123",
+  "role": "user",
+  "ratings": 4.9,
+  "years": 7,
+  "cpf": "456.789.123-00",
+  "phone": "+5531987654321",
+  "profile_picture": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg",
+  "address": {
+    "street": "Rua da Saúde",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "neighborhood": "Savassi",
+    "country": "Brasil",
+    "complement": "Consultório 5",
+    "number": "55",
+    "address_name": "Clínica",
+    "zip": "30140-130"
+  },
+  "active_devices": [
+    {
+      "id": 4,
+      "name": "iPad Pro",
+      "type": "tablet",
+      "os": "iPadOS",
+      "lastUsed": "2023-05-01T09:45:00Z",
+      "location": "Belo Horizonte, Brasil"
+    }
+  ],
+  "cards": [
+    {
+      "id": 4,
+      "cardNumber": "5555-6666-7777-8888",
+      "cardHolderName": "Fernanda Rocha",
+      "expiryDate": "07/27",
+      "cvv": "321"
+    }
+  ],
+  "transactions_history": [
+    {
+      "id": 5,
+      "type": "credit",
+      "amount": 500,
+      "date": "2023-05-10T10:00:00Z",
+      "description": "Consulta médica",
+      "card_flag": "MasterCard",
+      "status": "completed",
+      "order_id": "ORD123460",
+      "service_name": "Atendimento clínico",
+      "rating": 5,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 4,
+      "name": "Acompanhamento mensal",
+      "description": "Pacote de consultas com desconto.",
+      "category": "Saúde",
+      "price": 1200,
+      "rating": 4.9,
+      "createdAt": "2023-04-01T00:00:00Z",
+      "updatedAt": "2023-05-01T00:00:00Z",
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/cadeira.webp"
+    }
+  ],
+  "createdAt": "2023-04-01T00:00:00Z",
+  "updatedAt": "2023-06-20T00:00:00Z"
+}
