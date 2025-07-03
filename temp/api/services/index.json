@@ -314,7 +314,7 @@
 		"name": "Serviços de Limpeza",
 		"description": "Limpeza residencial e comercial com profissionais qualificados.",
 		"price": 100.00,
-		"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg",
 		"summary": "Ambientes limpos e organizados para sua tranquilidade.",
 		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
 		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
@@ -327,21 +327,21 @@
 			"Home",
 			"Services"
 		],
-		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg",
 		"services_offered": [
 			{
 				"id": 1,
 				"name": "Limpeza Residencial",
 				"description": "Limpeza completa de residências, incluindo cozinha, banheiros e salas.",
 				"price": 120.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/borrifando.jpg"
 			},
 			{
 				"id": 2,
 				"name": "Limpeza Comercial",
 				"description": "Serviços de limpeza para escritórios e estabelecimentos comerciais.",
 				"price": 150.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
 			}
 		]
 	},
@@ -350,7 +350,7 @@
 		"name": "Serviços de Jardinagem",
 		"description": "Cuidados e manutenção de jardins e áreas verdes.",
 		"price": 100.00,
-		"image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg",
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg",
 		"summary": "Ambientes externos bem cuidados para sua satisfação.",
 		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
 		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
@@ -363,21 +363,21 @@
 			"Home",
 			"Services"
 		],
-		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg",
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg",
 		"services_offered": [
 			{
 				"id": 1,
 				"name": "Manutenção de Jardins",
 				"description": "Serviços de poda, adubação e cuidados gerais.",
 				"price": 120.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/tacandofogo.png"
 			},
 			{
 				"id": 2,
 				"name": "Criação de Jardins",
 				"description": "Projetos e execução de jardins personalizados.",
 				"price": 150.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp"
 			}
 		]
 	},
@@ -386,7 +386,7 @@
 		"name": "Serviços de Pintura",
 		"description": "Pintura residencial e comercial com acabamento de qualidade.",
 		"price": 200.00,
-		"image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg",
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png",
 		"summary": "Transforme seu ambiente com cores e estilo.",
 		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
 		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
@@ -399,21 +399,21 @@
 			"Home",
 			"Services"
 		],
-		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg",
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png",
 		"services_offered": [
 			{
 				"id": 1,
 				"name": "Pintura Interna",
 				"description": "Pintura de paredes internas com tinta de alta qualidade.",
 				"price": 150.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/maleta.png"
 			},
 			{
 				"id": 2,
 				"name": "Pintura Externa",
 				"description": "Pintura de fachadas e áreas externas com proteção contra intempéries.",
 				"price": 250.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/perfillindinha.jpg"
 			}
 		]
 	},
@@ -422,7 +422,7 @@
 		"name": "Serviços de Limpeza Pós-Obra",
 		"description": "Limpeza especializada após obras e reformas.",
 		"price": 300.00,
-		"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/tacandofogo.png",
 		"summary": "Deixe seu espaço pronto para uso após a obra.",
 		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
 		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
@@ -435,21 +435,21 @@
 			"Post-Construction",
 			"Services"
 		],
-		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg",
 		"services_offered": [
 			{
 				"id": 1,
 				"name": "Limpeza Completa",
 				"description": "Limpeza detalhada de todos os ambientes.",
 				"price": 350.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
 			},
 			{
 				"id": 2,
 				"name": "Limpeza de Janelas",
 				"description": "Limpeza de janelas internas e externas.",
 				"price": 200.00,
-				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp"
 			}
 		]
 	}

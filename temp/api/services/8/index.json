@@ -3,7 +3,7 @@
   "name": "Serviços de Limpeza",
   "description": "Limpeza residencial e comercial com profissionais qualificados.",
   "price": 100,
-  "image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg",
   "summary": "Ambientes limpos e organizados para sua tranquilidade.",
   "openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
   "shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
@@ -16,21 +16,21 @@
     "Home",
     "Services"
   ],
-  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg",
   "services_offered": [
     {
       "id": 1,
       "name": "Limpeza Residencial",
       "description": "Limpeza completa de residências, incluindo cozinha, banheiros e salas.",
       "price": 120,
-      "image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/borrifando.jpg"
     },
     {
       "id": 2,
       "name": "Limpeza Comercial",
       "description": "Serviços de limpeza para escritórios e estabelecimentos comerciais.",
       "price": 150,
-      "image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
     }
   ]
 }

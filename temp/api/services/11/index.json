@@ -3,7 +3,7 @@
   "name": "Serviços de Limpeza Pós-Obra",
   "description": "Limpeza especializada após obras e reformas.",
   "price": 300,
-  "image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/tacandofogo.png",
   "summary": "Deixe seu espaço pronto para uso após a obra.",
   "openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
   "shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
@@ -16,21 +16,21 @@
     "Post-Construction",
     "Services"
   ],
-  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg",
   "services_offered": [
     {
       "id": 1,
       "name": "Limpeza Completa",
       "description": "Limpeza detalhada de todos os ambientes.",
       "price": 350,
-      "image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
     },
     {
       "id": 2,
       "name": "Limpeza de Janelas",
       "description": "Limpeza de janelas internas e externas.",
       "price": 200,
-      "image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp"
     }
   ]
 }

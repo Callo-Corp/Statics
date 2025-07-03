@@ -3,7 +3,7 @@
   "name": "Serviços de Pintura",
   "description": "Pintura residencial e comercial com acabamento de qualidade.",
   "price": 200,
-  "image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg",
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png",
   "summary": "Transforme seu ambiente com cores e estilo.",
   "openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
   "shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
@@ -16,21 +16,21 @@
     "Home",
     "Services"
   ],
-  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg",
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png",
   "services_offered": [
     {
       "id": 1,
       "name": "Pintura Interna",
       "description": "Pintura de paredes internas com tinta de alta qualidade.",
       "price": 150,
-      "image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg"
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/maleta.png"
     },
     {
       "id": 2,
       "name": "Pintura Externa",
       "description": "Pintura de fachadas e áreas externas com proteção contra intempéries.",
       "price": 250,
-      "image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg"
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/perfillindinha.jpg"
     }
   ]
 }
