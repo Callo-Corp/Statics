@@ -1,0 +1,49 @@
+{
+  "id": 3,
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg",
+  "name": "Dr. Vida Clínica Geral",
+  "description": "Clínica médica especializada em atendimentos clínicos e check-ups com excelência e cuidado humanizado.",
+  "summary": "Cuide da sua saúde com profissionais qualificados em diversas especialidades.",
+  "openingHours": "Monday to Friday, 8:00 AM - 6:00 PM",
+  "shipping": "Atendimento presencial. Teleconsulta disponível.",
+  "shipping_price": 41.2,
+  "shipping_time": "1-2 hours",
+  "open": true,
+  "star_rating": 4.8,
+  "categories": [
+    "Health",
+    "Medical",
+    "Clinic"
+  ],
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg",
+  "services_offered": [
+    {
+      "id": 1,
+      "name": "Consulta Clínica Geral",
+      "description": "Atendimento médico com clínico geral para diagnóstico e encaminhamento.",
+      "price": 120,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
+    },
+    {
+      "id": 2,
+      "name": "Check-up Completo",
+      "description": "Exames laboratoriais + avaliação médica detalhada.",
+      "price": 450,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Teleconsulta",
+      "description": "Atendimento por vídeo chamada com clínico geral.",
+      "price": 90,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodapanela.png"
+    },
+    {
+      "id": 4,
+      "name": "Aplicação de Vacinas",
+      "description": "Vacinação segura com supervisão médica.",
+      "price": 80,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/borrifando.jpg"
+    }
+  ]
+}

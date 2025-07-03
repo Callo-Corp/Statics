@@ -1,0 +1,42 @@
+{
+  "id": 5,
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg",
+  "name": "Mãos de Ouro Costuras",
+  "description": "Serviços de costura e ajustes com acabamento profissional, sob medida ou reformas.",
+  "summary": "Ajustes e reformas com precisão artesanal e entrega rápida.",
+  "openingHours": "Monday to Friday, 9:00 AM - 6:00 PM",
+  "shipping": "Entrega em domicílio disponível mediante taxa de R$10.",
+  "shipping_price": 10,
+  "shipping_time": "2-3 days",
+  "open": true,
+  "star_rating": 4.4,
+  "categories": [
+    "Tailoring",
+    "Fashion",
+    "Repair"
+  ],
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/perfillindinha.jpg",
+  "services_offered": [
+    {
+      "id": 1,
+      "name": "Barra de Calça",
+      "description": "Ajuste simples de comprimento com acabamento reforçado.",
+      "price": 25,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Reforma de Roupas",
+      "description": "Transforme peças antigas em novas tendências.",
+      "price": 60,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+    },
+    {
+      "id": 3,
+      "name": "Costura Sob Medida",
+      "description": "Criação de roupas a partir do zero, sob encomenda.",
+      "price": 250,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
+    }
+  ]
+}

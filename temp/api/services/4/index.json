@@ -1,0 +1,42 @@
+{
+  "id": 4,
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg",
+  "name": "Oficina Rápida Mecanicar",
+  "description": "Serviços automotivos rápidos e eficientes, com garantia e confiança de quem entende de carro.",
+  "summary": "A manutenção certa para seu veículo, sem complicações.",
+  "openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+  "shipping": "Atendimento apenas na oficina. Guincho disponível sob consulta.",
+  "shipping_price": 0,
+  "shipping_time": "1-3 hours",
+  "open": true,
+  "star_rating": 4.6,
+  "categories": [
+    "Automotive",
+    "Repair",
+    "Mechanic"
+  ],
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg",
+  "services_offered": [
+    {
+      "id": 1,
+      "name": "Troca de Óleo",
+      "description": "Óleo e filtro novos com inspeção gratuita.",
+      "price": 120,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+    },
+    {
+      "id": 2,
+      "name": "Revisão Preventiva",
+      "description": "Check-up completo com 30 itens verificados.",
+      "price": 250,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/maleta.png"
+    },
+    {
+      "id": 3,
+      "name": "Alinhamento e Balanceamento",
+      "description": "Correção de direção e vibração.",
+      "price": 100,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg"
+    }
+  ]
+}

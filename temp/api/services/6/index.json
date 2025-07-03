@@ -1,0 +1,43 @@
+{
+  "id": 6,
+  "name": "Design de Sobrancelhas",
+  "description": "Design e micropigmentação de sobrancelhas com profissionais qualificados.",
+  "price": 150,
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg",
+  "summary": "Realce seu olhar com sobrancelhas perfeitas e bem definidas.",
+  "openingHours": "Monday to Saturday, 10:00 AM - 7:00 PM",
+  "shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+  "shipping_price": 0,
+  "shipping_time": "1 hour",
+  "open": true,
+  "star_rating": 4.9,
+  "categories": [
+    "Beauty",
+    "Eyebrows",
+    "Design"
+  ],
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg",
+  "services_offered": [
+    {
+      "id": 1,
+      "name": "Design de Sobrancelhas",
+      "description": "Modelagem e design de sobrancelhas com técnicas avançadas.",
+      "price": 80,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
+    },
+    {
+      "id": 2,
+      "name": "Micropigmentação",
+      "description": "Técnica de micropigmentação para sobrancelhas com efeito natural.",
+      "price": 250,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp"
+    },
+    {
+      "id": 3,
+      "name": "Harmonização Facial",
+      "description": "Tratamento estético para harmonização facial com foco em sobrancelhas.",
+      "price": 500,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg"
+    }
+  ]
+}

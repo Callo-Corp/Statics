@@ -1,0 +1,36 @@
+{
+  "id": 9,
+  "name": "Serviços de Jardinagem",
+  "description": "Cuidados e manutenção de jardins e áreas verdes.",
+  "price": 100,
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg",
+  "summary": "Ambientes externos bem cuidados para sua satisfação.",
+  "openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+  "shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+  "shipping_price": 0,
+  "shipping_time": "1-2 hours",
+  "open": true,
+  "star_rating": 4.8,
+  "categories": [
+    "Gardening",
+    "Home",
+    "Services"
+  ],
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg",
+  "services_offered": [
+    {
+      "id": 1,
+      "name": "Manutenção de Jardins",
+      "description": "Serviços de poda, adubação e cuidados gerais.",
+      "price": 120,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Criação de Jardins",
+      "description": "Projetos e execução de jardins personalizados.",
+      "price": 150,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg"
+    }
+  ]
+}

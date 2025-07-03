@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const inputFile = path.join(__dirname, 'index.json');
-const outputDir = path.join(__dirname, 'users');
+const inputFile = path.join(__dirname, 'services', 'index.json');
+const outputDir = path.join(__dirname, 'services');
 
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir);

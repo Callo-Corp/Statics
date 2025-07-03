@@ -1,0 +1,56 @@
+{
+  "id": 2,
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png",
+  "name": "Beleza Total",
+  "description": "Um salão de beleza moderno com foco em cuidados capilares, estética e bem-estar, oferecendo uma variedade de serviços personalizados.",
+  "summary": "Transforme seu visual com nossos profissionais especializados em cabelo, pele e maquiagem.",
+  "openingHours": "Tuesday to Saturday, 9:00 AM - 8:00 PM",
+  "shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+  "shipping_price": 60,
+  "shipping_time": "1-2 hours",
+  "open": true,
+  "star_rating": 4.7,
+  "categories": [
+    "Beauty",
+    "Hair",
+    "Esthetics"
+  ],
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/perfillindinha.jpg",
+  "services_offered": [
+    {
+      "id": 1,
+      "name": "Corte e Escova",
+      "description": "Pacote completo de corte moderno com escova modelada.",
+      "price": 79.9,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
+    },
+    {
+      "id": 2,
+      "name": "Coloração Profissional",
+      "description": "Tintura com produtos premium e hidratação inclusa.",
+      "price": 150,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+    },
+    {
+      "id": 3,
+      "name": "Limpeza de Pele",
+      "description": "Tratamento facial profundo para renovação da pele.",
+      "price": 99,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Maquiagem Profissional",
+      "description": "Maquiagem para eventos especiais com produtos de alta qualidade.",
+      "price": 120,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Manicure e Pedicure",
+      "description": "Serviço completo de manicure e pedicure com esmaltação e hidratação.",
+      "price": 50,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/borrifando.jpg"
+    }
+  ]
+}

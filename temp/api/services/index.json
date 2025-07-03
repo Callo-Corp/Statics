@@ -1,0 +1,456 @@
+[
+	{
+		"id": 1,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/tacandofogo.png",
+		"name": "Churras & Sabor",
+		"description": "Churras & Sabor is a Brazilian barbecue restaurant that specializes in traditional churrasco, offering a variety of grilled meats and side dishes in a vibrant and welcoming atmosphere.",
+		"summary": "Churras & Sabor is a Brazilian barbecue restaurant that specializes in traditional churrasco, offering a variety of grilled meats and side dishes in a vibrant and welcoming atmosphere.",
+		"openingHours": "Monday to Sunday, 11:00 AM - 11:00 PM",
+		"shipping": "Free delivery for orders over $50 within a 5-mile radius. Standard delivery fee of $5 for orders below $50.",
+		"shipping_price": 5.00,
+		"shipping_time": "30-45 minutes",
+		"open": true,
+		"star_rating": 4.5,
+		"categories": [
+			"Brazilian",
+			"Barbecue",
+			"Grill"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Churrasco Experience",
+				"description": "Enjoy a complete churrasco experience with our selection of premium meats, sides, and traditional accompaniments.",
+				"price": 99.99,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodapanela.png"
+			},
+			{
+				"id": 2,
+				"name": "Vegetarian Churrasco",
+				"description": "A delicious vegetarian option featuring grilled vegetables, plant-based sausages, and traditional sides.",
+				"price": 79.99,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+			},
+			{
+				"id": 3,
+				"name": "Churrasco Catering",
+				"description": "Catering service for events with a customizable menu of grilled meats, sides, and beverages.",
+				"price": 199.99,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png",
+		"name": "Beleza Total",
+		"description": "Um salão de beleza moderno com foco em cuidados capilares, estética e bem-estar, oferecendo uma variedade de serviços personalizados.",
+		"summary": "Transforme seu visual com nossos profissionais especializados em cabelo, pele e maquiagem.",
+		"openingHours": "Tuesday to Saturday, 9:00 AM - 8:00 PM",
+		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+		"shipping_price": 60.00,
+		"shipping_time": "1-2 hours",
+		"open": true,
+		"star_rating": 4.7,
+		"categories": [
+			"Beauty",
+			"Hair",
+			"Esthetics"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/perfillindinha.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Corte e Escova",
+				"description": "Pacote completo de corte moderno com escova modelada.",
+				"price": 79.90,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
+			},
+			{
+				"id": 2,
+				"name": "Coloração Profissional",
+				"description": "Tintura com produtos premium e hidratação inclusa.",
+				"price": 150.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+			},
+			{
+				"id": 3,
+				"name": "Limpeza de Pele",
+				"description": "Tratamento facial profundo para renovação da pele.",
+				"price": 99.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg"
+			},
+			{
+				"id": 4,
+				"name": "Maquiagem Profissional",
+				"description": "Maquiagem para eventos especiais com produtos de alta qualidade.",
+				"price": 120.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
+			},
+			{
+				"id": 5,
+				"name": "Manicure e Pedicure",
+				"description": "Serviço completo de manicure e pedicure com esmaltação e hidratação.",
+				"price": 50.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/borrifando.jpg"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg",
+		"name": "Dr. Vida Clínica Geral",
+		"description": "Clínica médica especializada em atendimentos clínicos e check-ups com excelência e cuidado humanizado.",
+		"summary": "Cuide da sua saúde com profissionais qualificados em diversas especialidades.",
+		"openingHours": "Monday to Friday, 8:00 AM - 6:00 PM",
+		"shipping": "Atendimento presencial. Teleconsulta disponível.",
+		"shipping_price": 41.20,
+		"shipping_time": "1-2 hours",
+		"open": true,
+		"star_rating": 4.8,
+		"categories": [
+			"Health",
+			"Medical",
+			"Clinic"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Consulta Clínica Geral",
+				"description": "Atendimento médico com clínico geral para diagnóstico e encaminhamento.",
+				"price": 120.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
+			},
+			{
+				"id": 2,
+				"name": "Check-up Completo",
+				"description": "Exames laboratoriais + avaliação médica detalhada.",
+				"price": 450.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg"
+			},
+			{
+				"id": 3,
+				"name": "Teleconsulta",
+				"description": "Atendimento por vídeo chamada com clínico geral.",
+				"price": 90.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodapanela.png"
+			},
+			{
+				"id": 4,
+				"name": "Aplicação de Vacinas",
+				"description": "Vacinação segura com supervisão médica.",
+				"price": 80.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/borrifando.jpg"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg",
+		"name": "Oficina Rápida Mecanicar",
+		"description": "Serviços automotivos rápidos e eficientes, com garantia e confiança de quem entende de carro.",
+		"summary": "A manutenção certa para seu veículo, sem complicações.",
+		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+		"shipping": "Atendimento apenas na oficina. Guincho disponível sob consulta.",
+		"shipping_price": 0.00,
+		"shipping_time": "1-3 hours",
+		"open": true,
+		"star_rating": 4.6,
+		"categories": [
+			"Automotive",
+			"Repair",
+			"Mechanic"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Troca de Óleo",
+				"description": "Óleo e filtro novos com inspeção gratuita.",
+				"price": 120.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+			},
+			{
+				"id": 2,
+				"name": "Revisão Preventiva",
+				"description": "Check-up completo com 30 itens verificados.",
+				"price": 250.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/maleta.png"
+			},
+			{
+				"id": 3,
+				"name": "Alinhamento e Balanceamento",
+				"description": "Correção de direção e vibração.",
+				"price": 100.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg",
+		"name": "Mãos de Ouro Costuras",
+		"description": "Serviços de costura e ajustes com acabamento profissional, sob medida ou reformas.",
+		"summary": "Ajustes e reformas com precisão artesanal e entrega rápida.",
+		"openingHours": "Monday to Friday, 9:00 AM - 6:00 PM",
+		"shipping": "Entrega em domicílio disponível mediante taxa de R$10.",
+		"shipping_price": 10.00,
+		"shipping_time": "2-3 days",
+		"open": true,
+		"star_rating": 4.4,
+		"categories": [
+			"Tailoring",
+			"Fashion",
+			"Repair"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/perfillindinha.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Barra de Calça",
+				"description": "Ajuste simples de comprimento com acabamento reforçado.",
+				"price": 25.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg"
+			},
+			{
+				"id": 2,
+				"name": "Reforma de Roupas",
+				"description": "Transforme peças antigas em novas tendências.",
+				"price": 60.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+			},
+			{
+				"id": 3,
+				"name": "Costura Sob Medida",
+				"description": "Criação de roupas a partir do zero, sob encomenda.",
+				"price": 250.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"name": "Design de Sobrancelhas",
+		"description": "Design e micropigmentação de sobrancelhas com profissionais qualificados.",
+		"price": 150.00,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg",
+		"summary": "Realce seu olhar com sobrancelhas perfeitas e bem definidas.",
+		"openingHours": "Monday to Saturday, 10:00 AM - 7:00 PM",
+		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+		"shipping_price": 0.00,
+		"shipping_time": "1 hour",
+		"open": true,
+		"star_rating": 4.9,
+		"categories": [
+			"Beauty",
+			"Eyebrows",
+			"Design"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/doctor.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Design de Sobrancelhas",
+				"description": "Modelagem e design de sobrancelhas com técnicas avançadas.",
+				"price": 80.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/profilepic.png"
+			},
+			{
+				"id": 2,
+				"name": "Micropigmentação",
+				"description": "Técnica de micropigmentação para sobrancelhas com efeito natural.",
+				"price": 250.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp"
+			},
+			{
+				"id": 3,
+				"name": "Harmonização Facial",
+				"description": "Tratamento estético para harmonização facial com foco em sobrancelhas.",
+				"price": 500.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/mecanico.jpg"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"name": "Consertador de Celulares",
+		"description": "Serviços de conserto e manutenção de celulares com garantia de qualidade e rapidez.",
+		"price": 80.00,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/trabalhador.webp",
+		"summary": "Seu celular como novo em pouco tempo, sem complicações.",
+		"openingHours": "Monday to Saturday, 9:00 AM - 6:00 PM",
+		"shipping": "Atendimento presencial. Retirada e entrega disponíveis mediante taxa de R$15.",
+		"shipping_price": 15.00,
+		"shipping_time": "1-2 days",
+		"open": true,
+		"star_rating": 4.3,
+		"categories": [
+			"Electronics",
+			"Repair",
+			"Mobile"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/cabelelele.png",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Troca de Tela",
+				"description": "Substituição de telas quebradas ou danificadas com peças originais.",
+				"price": 150.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+			},
+			{
+				"id": 2,
+				"name": "Reparo de Bateria",
+				"description": "Substituição de baterias com garantia de qualidade e durabilidade.",
+				"price": 100.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/malabranca.jpg"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Serviços de Limpeza",
+		"description": "Limpeza residencial e comercial com profissionais qualificados.",
+		"price": 100.00,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"summary": "Ambientes limpos e organizados para sua tranquilidade.",
+		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+		"shipping_price": 0.00,
+		"shipping_time": "1-2 hours",
+		"open": true,
+		"star_rating": 4.7,
+		"categories": [
+			"Cleaning",
+			"Home",
+			"Services"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Limpeza Residencial",
+				"description": "Limpeza completa de residências, incluindo cozinha, banheiros e salas.",
+				"price": 120.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+			},
+			{
+				"id": 2,
+				"name": "Limpeza Comercial",
+				"description": "Serviços de limpeza para escritórios e estabelecimentos comerciais.",
+				"price": 150.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"name": "Serviços de Jardinagem",
+		"description": "Cuidados e manutenção de jardins e áreas verdes.",
+		"price": 100.00,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg",
+		"summary": "Ambientes externos bem cuidados para sua satisfação.",
+		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+		"shipping_price": 0.00,
+		"shipping_time": "1-2 hours",
+		"open": true,
+		"star_rating": 4.8,
+		"categories": [
+			"Gardening",
+			"Home",
+			"Services"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Manutenção de Jardins",
+				"description": "Serviços de poda, adubação e cuidados gerais.",
+				"price": 120.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg"
+			},
+			{
+				"id": 2,
+				"name": "Criação de Jardins",
+				"description": "Projetos e execução de jardins personalizados.",
+				"price": 150.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/jardinagem.jpg"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"name": "Serviços de Pintura",
+		"description": "Pintura residencial e comercial com acabamento de qualidade.",
+		"price": 200.00,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg",
+		"summary": "Transforme seu ambiente com cores e estilo.",
+		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+		"shipping_price": 0.00,
+		"shipping_time": "1-2 hours",
+		"open": true,
+		"star_rating": 4.6,
+		"categories": [
+			"Painting",
+			"Home",
+			"Services"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Pintura Interna",
+				"description": "Pintura de paredes internas com tinta de alta qualidade.",
+				"price": 150.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg"
+			},
+			{
+				"id": 2,
+				"name": "Pintura Externa",
+				"description": "Pintura de fachadas e áreas externas com proteção contra intempéries.",
+				"price": 250.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/pintura.jpg"
+			}
+		]
+	},
+	{
+		"id": 11,
+		"name": "Serviços de Limpeza Pós-Obra",
+		"description": "Limpeza especializada após obras e reformas.",
+		"price": 300.00,
+		"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"summary": "Deixe seu espaço pronto para uso após a obra.",
+		"openingHours": "Monday to Saturday, 8:00 AM - 6:00 PM",
+		"shipping": "Serviços presenciais apenas. Agendamento obrigatório.",
+		"shipping_price": 0.00,
+		"shipping_time": "1-2 hours",
+		"open": true,
+		"star_rating": 4.9,
+		"categories": [
+			"Cleaning",
+			"Post-Construction",
+			"Services"
+		],
+		"background_image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg",
+		"services_offered": [
+			{
+				"id": 1,
+				"name": "Limpeza Completa",
+				"description": "Limpeza detalhada de todos os ambientes.",
+				"price": 350.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+			},
+			{
+				"id": 2,
+				"name": "Limpeza de Janelas",
+				"description": "Limpeza de janelas internas e externas.",
+				"price": 200.00,
+				"image": "https://callo-corp.github.io/Statics/assets/images/temp/limpeza.jpg"
+			}
+		]
+	}
+]

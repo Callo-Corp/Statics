@@ -1,0 +1,42 @@
+{
+  "id": 1,
+  "image": "https://callo-corp.github.io/Statics/assets/images/temp/tacandofogo.png",
+  "name": "Churras & Sabor",
+  "description": "Churras & Sabor is a Brazilian barbecue restaurant that specializes in traditional churrasco, offering a variety of grilled meats and side dishes in a vibrant and welcoming atmosphere.",
+  "summary": "Churras & Sabor is a Brazilian barbecue restaurant that specializes in traditional churrasco, offering a variety of grilled meats and side dishes in a vibrant and welcoming atmosphere.",
+  "openingHours": "Monday to Sunday, 11:00 AM - 11:00 PM",
+  "shipping": "Free delivery for orders over $50 within a 5-mile radius. Standard delivery fee of $5 for orders below $50.",
+  "shipping_price": 5,
+  "shipping_time": "30-45 minutes",
+  "open": true,
+  "star_rating": 4.5,
+  "categories": [
+    "Brazilian",
+    "Barbecue",
+    "Grill"
+  ],
+  "background_image": "https://callo-corp.github.io/Statics/assets/images/temp/mercedes.jpg",
+  "services_offered": [
+    {
+      "id": 1,
+      "name": "Churrasco Experience",
+      "description": "Enjoy a complete churrasco experience with our selection of premium meats, sides, and traditional accompaniments.",
+      "price": 99.99,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodapanela.png"
+    },
+    {
+      "id": 2,
+      "name": "Vegetarian Churrasco",
+      "description": "A delicious vegetarian option featuring grilled vegetables, plant-based sausages, and traditional sides.",
+      "price": 79.99,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/fotodoprato.png"
+    },
+    {
+      "id": 3,
+      "name": "Churrasco Catering",
+      "description": "Catering service for events with a customizable menu of grilled meats, sides, and beverages.",
+      "price": 199.99,
+      "image": "https://callo-corp.github.io/Statics/assets/images/temp/costura.jpg"
+    }
+  ]
+}
